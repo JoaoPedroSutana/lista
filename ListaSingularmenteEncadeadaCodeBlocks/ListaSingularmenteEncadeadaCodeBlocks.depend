@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1693159031 source:/home/paulo-noe/Downloads/CodeBlocks/ListaSingularmenteEncadeadaCodeBlocks/main.cpp
+	<cstdio>
+	<cstdlib>
+	"Lista.h"
+
+1600620416 /home/paulo-noe/Downloads/CodeBlocks/ListaSingularmenteEncadeadaCodeBlocks/Lista.h
+
+1693159031 source:c:\users\professor\downloads\listasingularmenteencadeadacodeblocks\listasingularmenteencadeadacodeblocks\main.cpp
+	<cstdio>
+	<cstdlib>
+	"Lista.h"
+
+1600620416 c:\users\professor\downloads\listasingularmenteencadeadacodeblocks\listasingularmenteencadeadacodeblocks\lista.h
+
+1728511891 source:c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\listasingularmenteencadeadacodeblocks\main.cpp
+	<cstdio>
+	<cstdlib>
+	"Lista.h"
+	<string>
+	<iostream>
+
+1728511643 c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\listasingularmenteencadeadacodeblocks\lista.h
+	<string.h>
+
+1728512034 source:c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\listasingularmenteencadeadacodeblocks\lista.cpp
+	<cstdio>
+	<cstdlib>
+	"Lista.h"
+	<iostream>
+	<string>
+	<cstring>
+
